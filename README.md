@@ -1,2 +1,4 @@
 # NexusByte_project_name
-Fake News Detection Project Using Data Science
+1. Fake News Detection Project Using Data Science
+2. Recommendation System for Retail Stores.
+
